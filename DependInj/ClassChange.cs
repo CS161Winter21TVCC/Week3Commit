@@ -8,6 +8,6 @@ namespace DependInj
 {
     public class ClassChange
     {
-        public ClassChange(RealEstateInterface realestate)
+        public ClassChange(RealEstateInterface realestate);
     }
 }
